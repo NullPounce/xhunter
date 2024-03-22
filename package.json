@@ -16,7 +16,7 @@
     "@reduxjs/toolkit": "^1.8.0",
     "moment": "^2.29.3",
     "native-base": "^3.3.10",
-    "nodejs-mobile-react-native": "^0.8.0",
+    "nodejs-mobile-react-native": "^18.17.7",
     "react": "17.0.2",
     "react-native": "0.67.4",
     "react-native-document-picker": "^8.1.0",
