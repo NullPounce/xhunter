@@ -18,7 +18,7 @@
     "native-base": "^3.3.10",
     "nodejs-mobile-react-native": "^0.8.0",
     "react": "17.0.2",
-    "react-native": "0.67.4",
+    "react-native": "0.69.12",
     "react-native-document-picker": "^8.1.0",
     "react-native-gesture-handler": "^2.3.2",
     "react-native-gifted-chat": "^1.0.2",
